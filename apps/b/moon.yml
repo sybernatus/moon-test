@@ -1,2 +1,5 @@
 $schema: https://moonrepo.dev/schemas/project.json
 id: b
+tasks:
+  my-task:
+    command: cat README.md

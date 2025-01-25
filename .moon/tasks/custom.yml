@@ -4,3 +4,4 @@ tasks:
     command: cat README.md
     options:
       cache: false
+      mutex: "cat"

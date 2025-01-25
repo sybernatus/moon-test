@@ -1,0 +1,4 @@
+
+tasks:
+  my-task:
+    command: cat README.md

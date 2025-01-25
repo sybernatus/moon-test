@@ -1,5 +1,3 @@
 $schema: https://moonrepo.dev/schemas/project.json
+language: custom
 id: a
-tasks:
-  my-task:
-    command: cat README.md

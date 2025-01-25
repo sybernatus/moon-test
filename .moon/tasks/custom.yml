@@ -2,3 +2,5 @@
 tasks:
   my-task:
     command: cat README.md
+    options:
+      cache: false
